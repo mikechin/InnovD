@@ -68,29 +68,36 @@
 }
 
 .purchase .download {
-	padding: 10px 10px 0 10px;
+	padding-top: 20px;
 }
 
 .purchase .download .button {
 	text-align: center;
+	width: 40%;
 	padding: 20px;
 	margin: 10px;
-	color: #FFFFFF;
-	background-color: #8AC007;
 	cursor: pointer;
 	border: 2px solid #AAAAAA;
 }
 
+.purchase .download .button.buy {
+	float: left;
+	color: #FFFFFF;
+	background-color: #8AC007;
+	margin-left: 40px;
+}
+
+.purchase .download .button.download {
+	float: right;
+	background-color: #F3F3F3;
+	margin-right: 40px;
+}
+
 .purchase .version {
+	clear: both;
 	font-size: 0.75em;
 	text-align: center;
-}
-
-.description {
-}
-
-.description .content {
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 }
 
 .features {
@@ -101,7 +108,7 @@
 
 .features-list {
 	float: left;
-	width: 40%;
+	width: 33%;
 }
 
 .features-list-item {

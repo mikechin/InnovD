@@ -1,0 +1,197 @@
+.content {
+	width: 75%;
+	min-width: 760px;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content .title {
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 10px 0 10px 0;
+	color: #555555;
+}
+
+.content .copy {
+	font-size: 0.8em;
+}
+
+.header {
+}
+
+.header .content {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.header .company-name {
+	font-size: 1.6em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.header .menu {
+	text-align: right;
+	font-size: 0.9em;
+}
+
+.header .menu a {
+	padding-right: 5px;
+}
+
+.product {
+	background-color: #2D2D2D;
+	height: 340px;
+}
+
+.product .logo {
+	float: left;
+	padding: 40px 10px 40px 50px;
+}
+
+.product .info {
+	float: left;
+	padding: 130px 0 135px 20px;
+}
+
+.product .info .name {
+	font-size: 3em;
+	color: #FFFFFF;
+}
+
+.product .info .hook {
+	font-size: 1em;
+}
+
+.purchase {
+}
+
+.purchase .download {
+	padding: 10px 10px 0 10px;
+}
+
+.purchase .download .button {
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+	color: #FFFFFF;
+	background-color: #8AC007;
+	cursor: pointer;
+	border: 2px solid #AAAAAA;
+}
+
+.purchase .version {
+	font-size: 0.75em;
+	text-align: center;
+}
+
+.description {
+}
+
+.description .content {
+	padding-bottom: 20px;
+}
+
+.features {
+}
+
+.features .content {
+}
+
+.features-list {
+	float: left;
+	width: 40%;
+}
+
+.features-list-item {
+	padding: 20px;
+}
+
+.features-list-item .item-header {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 15px;
+}
+
+.features-list-item .item-content {
+}
+
+.help {
+	background-color: #D3D3D3;
+	clear: both;
+}
+
+.help .content {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.help-item {
+	padding: 10px 0 20px 50px;
+}
+
+.help-item .item-header {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-bottom: 15px;
+}
+
+.help-item .item-content {
+}
+
+.help-item .item-content ul {
+	list-style-type: decimal;
+}
+
+.help-item .item-note {
+	font-size: 0.5em;
+	padding-top: 5px;
+	padding-left: 30px;
+}
+
+.footer {
+	background-color: #F3F3F3;
+}
+
+.footer .support {
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+
+.footer .copyright {
+	font-size: 0.7em;
+	padding-bottom: 30px;
+	text-align: right;
+}
+
+/* general. */
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+	color: #777777;
+}
+
+ul {
+	margin: 0;
+}
+
+a:link {
+	color: #777777;
+}
+
+a:visited {
+	color: #777777;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #777777;
+}
+
+a:active {
+	text-decoration: none;
+	color: #777777;
+}
+
+

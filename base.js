@@ -12,4 +12,10 @@ $(window).load(function() {
 		var win = window.open('https://sites.fastspring.com/innovationdistrict/instant/moveresize', '_blank');
 		win.focus();
 	});
+	$('.link[data-action="headline"]').on('click', function(event) {
+		event.preventDefault();
+		ga('send', 'event', 'link', 'click', 'reddit');
+		var win = window.open('http://www.reddit.com/comments/1wr678/moveresize_windows_using_multitouch_gestures_mac/', '_blank');
+		win.focus();
+	});
 });

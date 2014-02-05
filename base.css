@@ -13,6 +13,31 @@
 	color: #555555;
 }
 
+.content .title2 {
+	font-weight: bold;
+	font-size: 1.2em;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.title2 a:link {
+	color: #DDDDDD;
+}
+
+.title2 a:visited {
+	color: #DDDDDD;
+}
+
+.title2 a:hover {
+	text-decoration: none;
+	color: #DDDDDD;
+}
+
+.title2 a:active {
+	text-decoration: none;
+	color: #DDDDDD;
+}
+
 .content .copy {
 	font-size: 0.8em;
 }
@@ -61,6 +86,14 @@
 
 .product .info .hook {
 	font-size: 1em;
+}
+
+.headline {
+	background-color: #EA564C;
+}
+
+.headline .content {
+	padding: 40px;
 }
 
 .purchase {

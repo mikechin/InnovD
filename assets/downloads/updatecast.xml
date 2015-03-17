@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>move+resize changelog</title>
+		<link>http://InnovD.com/assets/downloads/updatecast.xml</link>
+		<description>Most recent changes.</description>
+		<language>en</language>
+		<item>
+			<title>Version 1.2.4</title>
+			<description>
+				<![CDATA[
+					<h2>Updates</h2>
+					<ul>
+						<li>Add update framework.</li>
+						<li>Bug fixes.</li>
+					</ul>
+				]]>
+			</description>
+			<pubDate>Saturday, 01 March 2014 00:00:00 +0000</pubDate>
+			<enclosure length="1810794" sparkle:shortVersionString="1.2.4" sparkle:version="43" type="application/octet-stream" url="http://InnovD.com/assets/downloads/move+resize.zip"/>
+		</item>
+	</channel>
+</rss>
